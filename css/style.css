@@ -1,0 +1,38 @@
+form{
+	width: 40%;
+	margin: 10px auto;
+}
+legend,.indent{
+	font-weight: bold;
+}
+.about label,.indent,#send{
+	margin: 15px 0;
+}
+.flex{
+	display: inline;
+}
+#email,textarea,label{
+	display: block;
+}
+textarea{
+	max-width: 350px;
+}
+select{
+	outline: 0;
+}
+#field1, #email{
+	width: 250px;
+}
+p{
+	margin-top: 0;
+	font-style: italic;
+}
+.h4Margin{
+	margin-bottom: 0;
+}
+#select-position{
+	width: 150px;
+}
+#age{
+	width: 50px;
+}
